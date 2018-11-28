@@ -2,3 +2,10 @@ body{background-color:pink;}
 p{color: green; font-family: Arial;}
 h1{color:purple; font-family: Ahoroni;}
 h3 {color:blue; font-family:Garamond;}
+ul{
+  list-style-type:lower-roman;
+  
+  colour: yellow;
+  
+  font-family:"Iskoola Pota";
+}
